@@ -8,3 +8,4 @@ Here you'll find practical examples and ready-to-run code to help you bring AI-p
 | [Agentic Security (HDP)](Gemma_4_HDP_Agentic_Security/) | Use Human Delegation Provenance (HDP) to cryptographically verify Gemma's native function-calls. |
 | [Gemma on Cloud Run](Gemma-on-Cloudrun/) | Build and deploy a Gemma-powered application on Cloud Run using the Gemini API. |
 | [Antigravity Hybrid Orchestrator](antigravity-hybrid-orchestrator/) | Hybrid cloud/on-device security auditing pairing Gemini 3.8 Flash planning with a local Gemma 4 swarm via the Google Antigravity SDK. |
+| [RAG on Edge](RAG-on-Edge/) | End-to-end Retrieval-Augmented Generation running fully on-device with Qdrant Edge for vector search and LiteRT-LM (EmbeddingGemma2 + Gemma 4) for embeddings and generation — no network calls at inference time. |
